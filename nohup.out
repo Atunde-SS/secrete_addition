@@ -1,0 +1,32 @@
+
+> nextjs@0.1.0 dev
+> next dev -H 0.0.0.0
+
+  ▲ Next.js 14.2.14
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+ ✓ Ready in 1871ms
+
+> nextjs@0.1.0 dev
+> next dev -H 0.0.0.0
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+  ▲ Next.js 14.2.14
+  - Local:        http://localhost:3001
+  - Network:      http://0.0.0.0:3001
+
+ ✓ Starting...
+ ✓ Ready in 1963ms
+ ○ Compiling / ...
+ ⚠ Circular dependency between chunks with runtime (_app-pages-browser_node_modules_nillion_client-wasm_dist_worker_js, webpack)
+This prevents using hashes of each other and should be avoided.
+
+Circular dependency between chunks with runtime (0, webpack-runtime)
+This prevents using hashes of each other and should be avoided.
+ ⚠ Circular dependency between chunks with runtime (_app-pages-browser_node_modules_nillion_client-wasm_dist_worker_js, webpack)
+This prevents using hashes of each other and should be avoided.
+
+Circular dependency between chunks with runtime (0, webpack-runtime)
+This prevents using hashes of each other and should be avoided.
