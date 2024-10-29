@@ -1,6 +1,6 @@
-name = "deny"
+name = "nada"
 version = "0.1.0"
-authors = ["deny"]
+authors = [""]
 
 [[programs]]
 path = "src/secret_addition.py"
